@@ -13,8 +13,8 @@ for (const button of allButton) {
         // console.log(e)
         // console.log(e.target)
         // console.log(e.target.id) //first button e click korle prime show krbe,2nd tae click korle kichu show korbe na 
-        console.log(e.target.parentNode); //div ashbe
-        console.log(e.target.parentNode.parentNode); //body ashbe
+        // console.log(e.target.parentNode); //div ashbe
+        // console.log(e.target.parentNode.parentNode); //body ashbe
     })
 }//ekhn normal function diye korlam pore shikhe arrow function use 
 //ekhn inspact kore jetae click korbo shetar event show krbe
